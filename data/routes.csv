@@ -1,0 +1,35 @@
+type,route,stops_in_order
+train,Train-Coastal,Fort > Kollupitiya > Bambalapitiya > Wellawatte > Dehiwala > MtLavinia > Ratmalana > Moratuwa > Panadura
+train,Train-KV,Fort > Nugegoda > Pangiriwatte > Nawinna > Maharagama
+train,Train-Main,Fort > Maradana > Dematagoda > Kelaniya > Ragama
+bus,138,Homagama > Kottawa > Maharagama > Nugegoda > Kirulapana > Thummulla > SlaveIsland > Fort > Pettah
+bus,183,Nugegoda > Kalubowila > Dehiwala > Moratuwa > Panadura
+bus,212/341,Nugegoda > Maharagama > Pannipitiya > Erawwala > Makuludoowa > Bokundara
+bus,992,Nugegoda > Maharagama > Pannipitiya > Athurugiriya
+bus,119,Nugegoda > JubileePost > Embuldeniya > Maharagama
+bus,689,Nugegoda > Udahamulla > Madiwela > Thalawathugoda > Hokandara
+bus,690,Nugegoda > JubileePost > Embuldeniya > Madiwela > Kimbulawala > JayawardenepuraHospital
+bus,163,Dehiwala > Nugegoda > Pagoda > Kotte > Battaramulla
+bus,313,Homagama > Kottawa > Maharagama > Kohuwala > Kalubowila
+bus,308,Maharagama > Niyandagala > Kottawa > Homagama
+bus,128/1,Maharagama > Homagama > Munamalewatta
+bus,124,Maharagama > Godagama > Homagama > IhalaBope
+bus,376,Kottawa > Rukmale > Malabe
+bus,171,Pelawatta > Battaramulla > Rajagiriya > Borella > Fort
+bus,170,Athurugiriya > Battaramulla > Borella > TownHall > Pettah
+bus,190,Meegoda > Godagama > Battaramulla > Borella > TownHall > Pettah
+bus,174,Kottawa > Thalawathugoda > Battaramulla > Borella
+bus,177,Kaduwela > Battaramulla > Borella > Kollupitiya
+bus,17,Panadura > Moratuwa > Ratmalana > Dehiwala > Nugegoda > Kotte > Battaramulla
+bus,103,Borella > Narahenpita
+bus,144,Rajagiriya > Fort
+bus,117,Nugegoda > Pepiliyana > Attidiya > Ratmalana
+bus,192,Moratuwa > Maharagama
+bus,Mhg-Dehiwala,Maharagama > Boralesgamuwa > Bellanwila > Dehiwala
+bus,Mhg-Ratmalana,Maharagama > Borupana > Ratmalana
+bus,CM01,Makumbura > Pettah > Fort
+bus,CM02,MillenniumCity > Fort
+bus,CM03,Kadawatha > Makumbura
+bus,CM04,Dematagoda > Panadura
+bus,CM05,Battaramulla > Ekala
+bus,CM08,Kesbewa > Pettah
